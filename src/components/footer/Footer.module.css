@@ -1,0 +1,126 @@
+.footerContainer {
+    background-color: #181B32;
+    width: 100vw;
+    padding: 1rem 0;
+}
+
+.footerContentBox {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.siteNavigator {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.linkContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+h3 {
+    color: #f58221;
+    font-weight: 700;
+}
+
+.generalLink {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.archivesCard {
+    background-color: #00aeef;
+}
+
+.archivesCard:hover {
+    background-color: #0390c6;
+}
+
+.infographicsCard {
+    background-color: #38b39a;
+}
+
+.infographicsCard:hover {
+    background-color: #26947e;
+}
+
+.myBjpCard {
+    background-color: #2e3192;
+}
+
+.myBjpCard:hover {
+    background-color: #0390c6;
+}
+
+.stateWebsiteCard {
+    background-color: #46056b;
+}
+
+.stateWebsiteCard:hover {
+    background-color: #0390c6;
+}
+
+.joinBJPCard {
+    background-color: #f26522;
+}
+
+.joinBJPCard:hover {
+    background-color: #ff5105;
+}
+
+.joinBJPCard:hover {
+    background-color: #ff5105;
+}
+
+.donationCard {
+    background-color: #ff7500;
+}
+
+.activeMembershipCard {
+    background-color: #0390c6;
+}
+
+.andriodAppCard {
+    background-color: #38b39a;
+}
+
+.andriodAppCard:hover {
+    background-color: #26947e;
+}
+
+.iosAppCard {
+    background-color: #46056b;
+}
+
+.bjpLiveCard {
+    background-color: #38b39a;
+}
+
+.bjpLiveCard:hover {
+    background-color: #26947e;
+}
+
+.vikasYatraCard {
+    background-color: #f26522;
+}
+
+.vikasYatraCard:hover {
+    background-color: #da7406;
+}
+
+.electionCornerCard {
+    background-color: #38b39a;
+}
+
+.electionCornerCard:hover {
+    background-color: #26947e;
+}
+
+.smallScreenCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+}

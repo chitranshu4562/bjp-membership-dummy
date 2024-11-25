@@ -1,0 +1,12 @@
+.clickableHeader {
+    color: #f58221;
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.clickableHeader:hover {
+    background-color: #1e2135;
+}

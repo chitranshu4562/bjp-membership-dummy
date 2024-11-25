@@ -1,0 +1,8 @@
+.title {
+    color: #5e68a6;
+}
+
+.navLinkContainer {
+    display: flex;
+    flex-direction: column;
+}

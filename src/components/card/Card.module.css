@@ -1,0 +1,14 @@
+.card {
+    width: 195px;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 0;
+    margin: 5px 0;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: oswald, sans-serif;
+}
